@@ -73,7 +73,7 @@ I tried various combinations of parameters:
 
 **Yes exactly like this.** Ultimately I searched on two scales using YCrCb 3-channel HOG features plus spatially binned color and histograms of color in the feature vector, which provided a nice result.  Here are some example images:
 
-![](./output_images/result3.jpg) <!-- .element height="50%" width="50%" -->
+<img src="./output_images/result3.jpg" height=75% width=75%>
 
 ---
 
