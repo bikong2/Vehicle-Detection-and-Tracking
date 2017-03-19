@@ -57,7 +57,7 @@ It took **118.966s** to extract the features from both categories and **13.674s*
 
 SVC score on the randomly split testset was **0.9904279**.
 
-###Sliding Window Search
+### Sliding Window Search
 
 #### 1. Describe how (and identify where in your code) you implemented a sliding window search.  How did you decide what scales to search and how much to overlap windows?
 
@@ -73,7 +73,7 @@ I tried various combinations of parameters:
 
 **Yes exactly like this.** Ultimately I searched on two scales using YCrCb 3-channel HOG features plus spatially binned color and histograms of color in the feature vector, which provided a nice result.  Here are some example images:
 
-<img src="./output_images/result3.jpg" height=50% width=50%>
+<img src=./output_images/result3.jpg height=50% width=50%>
 
 ---
 
