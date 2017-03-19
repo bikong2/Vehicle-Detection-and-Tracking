@@ -89,8 +89,8 @@ Here's [my video output](https://youtu.be/-VajSIj0qTs)
 
 #### Here's an example result showing the heatmap from a series of frames of video and the bounding boxes then overlaid on the last frame of video:
 
-<img src="./output_images/result4.jpg" width="700" />
+<img src="./output_images/result4.jpg" width="500" />
 
 #### Here the resulting bounding boxes are drawn onto the last frame of video:
 
-<img src="./output_images/result5.jpg" width="700" />
+<img src="./output_images/result5.jpg" width="500" />
