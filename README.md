@@ -73,7 +73,7 @@ I tried various combinations of parameters:
 
 **Yes exactly like this.** Ultimately I searched on two scales using YCrCb 3-channel HOG features plus spatially binned color and histograms of color in the feature vector, which provided a nice result.  Here are some example images:
 
-![](./output_images/result3.jpg)
+![](./output_images/result3.jpg) <!-- .element height="50%" width="50%" -->
 
 ---
 
@@ -89,8 +89,8 @@ Here's [my video output](https://youtu.be/-VajSIj0qTs)
 
 #### Here's an example result showing the heatmap from a series of frames of video and the bounding boxes then overlaid on the last frame of video:
 
-![](./output_images/result4.jpg)
+![](./output_images/result4.jpg) <!-- .element height="50%" width="50%" -->
 
 #### Here the resulting bounding boxes are drawn onto the last frame of video:
 
-![](./output_images/result5.jpg)
+![](./output_images/result5.jpg) <!-- .element height="50%" width="50%" -->
