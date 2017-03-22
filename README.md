@@ -52,7 +52,7 @@ The length of the training vector was **4344**.
 It took **118.966s** to extract the features from both categories and **13.674s** to train on the provided dataset.
 
 SVC score on the randomly split testset was **0.9904279**.
-
+---
 ### Sliding Window Search
 
 #### 1. Describe how (and identify where in your code) you implemented a sliding window search.  How did you decide what scales to search and how much to overlap windows?
